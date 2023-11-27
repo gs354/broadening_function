@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "broadening-function"
+version = "0.1.0"
+description = ""
+authors = ["Gareth Smith <garethsmithuk@gmail.com>"]
+readme = "README.md"
+packages = [{include = "broadening_function"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.2"
+jupyter = "^1.0.0"
+matplotlib = "^3.8.2"
+scipy = "^1.11.4"
+astropy = "^5.3.4"
+pyastronomy = "^0.20.0"
+emcee = "^3.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
