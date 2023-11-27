@@ -4,7 +4,7 @@
 - Rucinski, S. M., 1992, AJ, 104, 1968; Rucinski, S. M., 2002, AJ, 124, 1746.
 
 The notebook is used to make the broadening functions from spectra.
-The scripts in bf_fit were used to infer parameter distributions with MCMC and GPs - they need a lot of tidying up!
+Versions of th scripts in bf_fit were used to infer parameter distributions with MCMC and GPs - they need a lot of tidying up!
 
 
 - Only the requirements for the notebook are currently in the TOML
